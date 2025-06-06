@@ -1,1 +1,20 @@
 @charset "utf-8";
+
+body {
+  margin: 0 auto;
+  text-align: center;
+  background: rgba(63, 168, 255, 0.548);
+}
+
+table {
+  background: #eee;
+  width: 100px;
+  margin: 8px auto;
+}
+tr{
+  gap: 8px;
+}
+
+.btns {
+  margin-top: 12px;
+}
